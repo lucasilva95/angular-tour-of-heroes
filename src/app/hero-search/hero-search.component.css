@@ -27,7 +27,7 @@
   .search-result li a:active {
     color: white;
   }
-  #search-box {
+  #search-box.search-result {
     width: 200px;
     height: 20px;
   }

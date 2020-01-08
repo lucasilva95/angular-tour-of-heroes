@@ -5,11 +5,13 @@ label {
     margin: .5em 0;
     color: #607D8B;
     font-weight: bold;
+    margin-right: 5px;
   }
   input {
     height: 2em;
     font-size: 1em;
     padding-left: .4em;
+    font-weight: bold;
   }
   button {
     margin-top: 20px;
